@@ -1,0 +1,2 @@
+-  Hi, my name is Coşkun and as you can see C0rkan is my nickname. 
+-  I am a jr. developer and I am trying to improve my codding skils.
